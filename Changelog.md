@@ -1,3 +1,7 @@
+### master
+
+* Add support to roll legacy encryptors
+
 ### 0.2.0
 
 * Updated to Rails 4+.
